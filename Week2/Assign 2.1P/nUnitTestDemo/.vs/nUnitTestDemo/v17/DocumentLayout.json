@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB46789B-2959-433F-B6B4-7662834BCDF9}|nUnitTestDemo\\nUnitTestDemo.csproj|c:\\users\\kusha\\uni\\sem2\\object oriented programming c#\\programming assignments\\week2\\assign 2.1p\\nunittestdemo\\nunittestdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB46789B-2959-433F-B6B4-7662834BCDF9}|nUnitTestDemo\\nUnitTestDemo.csproj|solutionrelative:nunittestdemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB46789B-2959-433F-B6B4-7662834BCDF9}|nUnitTestDemo\\nUnitTestDemo.csproj|c:\\users\\kusha\\uni\\sem2\\object oriented programming c#\\programming assignments\\week2\\assign 2.1p\\nunittestdemo\\nunittestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB46789B-2959-433F-B6B4-7662834BCDF9}|nUnitTestDemo\\nUnitTestDemo.csproj|solutionrelative:nunittestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C09A9-8F3C-4E3F-A266-FBCC26CBF24E}|TestDemo\\TestDemo.csproj|c:\\users\\kusha\\uni\\sem2\\object oriented programming c#\\programming assignments\\week2\\assign 2.1p\\nunittestdemo\\testdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84C09A9-8F3C-4E3F-A266-FBCC26CBF24E}|TestDemo\\TestDemo.csproj|solutionrelative:testdemo\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\TestDemo\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestDemo\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\TestDemo\\UnitTest1.cs",
+              "RelativeToolTip": "TestDemo\\UnitTest1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA5wA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:17:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\nUnitTestDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "nUnitTestDemo\\Employee.cs",
+              "ToolTip": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\nUnitTestDemo\\Employee.cs",
+              "RelativeToolTip": "nUnitTestDemo\\Employee.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:08:23.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\nUnitTestDemo\\Program.cs",
+              "RelativeDocumentMoniker": "nUnitTestDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\kusha\\UNI\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week2\\Assign 2.1P\\nUnitTestDemo\\nUnitTestDemo\\Program.cs",
+              "RelativeToolTip": "nUnitTestDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:06:35.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

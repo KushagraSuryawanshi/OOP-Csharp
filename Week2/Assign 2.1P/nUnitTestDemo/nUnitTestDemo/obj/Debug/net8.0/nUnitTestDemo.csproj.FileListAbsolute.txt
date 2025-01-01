@@ -1,0 +1,14 @@
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\bin\Debug\net8.0\nUnitTestDemo.exe
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\bin\Debug\net8.0\nUnitTestDemo.deps.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\bin\Debug\net8.0\nUnitTestDemo.runtimeconfig.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\bin\Debug\net8.0\nUnitTestDemo.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\bin\Debug\net8.0\nUnitTestDemo.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.AssemblyInfo.cs
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\refint\nUnitTestDemo.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\nUnitTestDemo.genruntimeconfig.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\nUnitTestDemo\nUnitTestDemo\obj\Debug\net8.0\ref\nUnitTestDemo.dll

@@ -1,0 +1,14 @@
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\bin\Debug\net8.0\_2_1__4th_que.exe
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\bin\Debug\net8.0\_2_1__4th_que.deps.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\bin\Debug\net8.0\_2_1__4th_que.runtimeconfig.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\bin\Debug\net8.0\_2_1__4th_que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\bin\Debug\net8.0\_2_1__4th_que.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.AssemblyInfoInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.AssemblyInfo.cs
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.csproj.CoreCompileInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\refint\_2_1__4th_que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\_2_1__4th_que.genruntimeconfig.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.1P\2.1, 4th que\obj\Debug\net8.0\ref\_2_1__4th_que.dll

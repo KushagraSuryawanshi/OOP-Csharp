@@ -1,0 +1,14 @@
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\bin\Debug\net8.0\2.1, 3rd que.exe
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\bin\Debug\net8.0\2.1, 3rd que.deps.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\bin\Debug\net8.0\2.1, 3rd que.runtimeconfig.json
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\bin\Debug\net8.0\2.1, 3rd que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\bin\Debug\net8.0\2.1, 3rd que.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.AssemblyInfoInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.AssemblyInfo.cs
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.csproj.CoreCompileInputs.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\refint\2.1, 3rd que.dll
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.pdb
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\2.1, 3rd que.genruntimeconfig.cache
+C:\Users\kusha\UNI\Sem2\Object Oriented Programming C#\Programming Assignments\Assign 2.1P\2.1, 3rd que\2.1, 3rd que\obj\Debug\net8.0\ref\2.1, 3rd que.dll
