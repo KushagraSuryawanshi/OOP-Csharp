@@ -1,0 +1,14 @@
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\bin\Debug\net8.0\Assign1.2.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\bin\Debug\net8.0\Assign1.2.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\bin\Debug\net8.0\Assign1.2.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\bin\Debug\net8.0\Assign1.2.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\bin\Debug\net8.0\Assign1.2.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\refint\Assign1.2.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\Assign1.2.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming part of assignments\Assign1.2\Assign1.2\obj\Debug\net8.0\ref\Assign1.2.dll
