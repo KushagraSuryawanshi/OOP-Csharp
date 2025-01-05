@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.2\\program.cs\\program.cs\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.2\\program.cs\\program.cs\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.2\\program.cs\\program.cs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Item.cs",
+              "RelativeDocumentMoniker": "Program.cs\\Item.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Item.cs",
+              "RelativeToolTip": "Program.cs\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:07:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Inventory.cs",
+              "RelativeDocumentMoniker": "Program.cs\\Inventory.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Inventory.cs",
+              "RelativeToolTip": "Program.cs\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:07:53.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Bag.cs",
+              "RelativeDocumentMoniker": "Program.cs\\Bag.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.2\\Program.cs\\Program.cs\\Bag.cs",
+              "RelativeToolTip": "Program.cs\\Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:07:52.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

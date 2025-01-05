@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week5\\5.3\\shapedrawer\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F497E-8978-4424-9534-FA6CEA408954}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA3wFQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:05:11.806Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAA0wIIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:36:35.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwBgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:19:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA3wDoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:10:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwFMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:10:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week5\\5.3\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAywE0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:09:10.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
