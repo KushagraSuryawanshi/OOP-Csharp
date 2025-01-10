@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week6\\6.1\\Program.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week6\\6.1\\program.cs\\program.cs\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week6\\6.1\\Program.cs\\Program.cs\\LookCommand.cs",
+              "RelativeDocumentMoniker": "Program.cs\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week6\\6.1\\Program.cs\\Program.cs\\LookCommand.cs",
+              "RelativeToolTip": "Program.cs\\LookCommand.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:16:17.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
