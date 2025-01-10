@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week7\\7.1P\\Program.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week7\\7.1p\\program.cs\\program.cs\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A6DD33E-6DE8-42D6-867E-5111FAE6463B}|Program.cs\\Program.cs.csproj|solutionrelative:program.cs\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBEEBFD-9DC4-41CE-AD27-B97FF9297FF2}|BagUnitTests\\BagUnitTests.csproj|c:\\users\\kusha\\sem2\\object oriented programming c#\\programming assignments\\week7\\7.1p\\program.cs\\bagunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBEEBFD-9DC4-41CE-AD27-B97FF9297FF2}|BagUnitTests\\BagUnitTests.csproj|solutionrelative:bagunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week7\\7.1P\\Program.cs\\BagUnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BagUnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week7\\7.1P\\Program.cs\\BagUnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "BagUnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:09:23.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week7\\7.1P\\Program.cs\\Program.cs\\Bag.cs",
+              "RelativeDocumentMoniker": "Program.cs\\Bag.cs",
+              "ToolTip": "C:\\Users\\kusha\\Sem2\\Object Oriented Programming C#\\Programming Assignments\\Week7\\7.1P\\Program.cs\\Program.cs\\Bag.cs",
+              "RelativeToolTip": "Program.cs\\Bag.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T07:09:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

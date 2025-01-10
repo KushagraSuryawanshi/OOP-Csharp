@@ -1,0 +1,98 @@
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week2\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week4\4.2P\Assign 2.4P\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week5\5.2\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week6\6.1\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.1P\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\kusha\Sem2\Object Oriented Programming C#\Programming Assignments\Week7\7.2C\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
